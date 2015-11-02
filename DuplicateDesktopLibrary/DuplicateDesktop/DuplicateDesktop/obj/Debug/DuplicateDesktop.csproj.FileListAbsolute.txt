@@ -1,0 +1,17 @@
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\DuplicateDesktop.csprojResolveAssemblyReference.cache
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\bin\Debug\DuplicateDesktop.dll
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\bin\Debug\DuplicateDesktop.pdb
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\bin\Debug\DuplicateDesktop.pri
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\DuplicateDesktop.dll
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\DuplicateDesktop.pdb
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\priconfig.xml
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\priconfig.xml.intermediate
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\layout.resfiles
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\layout.resfiles.intermediate
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\resources.resfiles
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\resources.resfiles.intermediate
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\pri.resfiles
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\pri.resfiles.intermediate
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\qualifiers.txt
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\qualifiers.txt.intermediate
+D:\altvr\DuplicateDesktopLibrary\DuplicateDesktop\DuplicateDesktop\obj\Debug\MultipleQualifiersPerDimensionFound.txt
